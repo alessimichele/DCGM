@@ -1,5 +1,8 @@
 <p align="center">
     <h1 align="center">DCGM</h1>
+    <h2 align="center">Density-based Clustering applied to Generative Models</h2>
+
+ <h3 align="center"> Repository for the code of my Master's Thesis </h3>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/alessimichele/DCGM?style=flat&color=0080ff" alt="license">
@@ -21,3 +24,5 @@
 
 </p>
 <hr>
+
+
