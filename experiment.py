@@ -33,7 +33,7 @@ parser.add_argument('--lr', type=float, default=0.0005, metavar='LR',
 parser.add_argument('--early_stopping_epochs', type=int, default=50, metavar='ES',
                     help='number of epochs for early stopping')
 
-parser.add_argument('--warmup', type=int, default=100, metavar='WU',
+parser.add_argument('--warmup', type=int, default=50, metavar='WU',
                     help='number of epochs for warm-up')
 
 # cuda
